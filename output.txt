@@ -1,0 +1,32 @@
+District Name: name
+Shipping Manifest
+
+
+School Name: name1
+Laptops given to this school: 123
+Textbooks given to this school: 123
+Notebooks given to this school: 123
+Pencils given to this school: 123
+
+School Name: name2
+Laptops given to this school: 123
+Textbooks given to this school: 123
+Notebooks given to this school: 123
+Pencils given to this school: 123
+
+School Name: name3
+Laptops given to this school: 123
+Textbooks given to this school: 123
+Notebooks given to this school: 123
+Pencils given to this school: 123
+
+School Name: name4
+Laptops given to this school: 123
+Textbooks given to this school: 123
+Notebooks given to this school: 123
+Pencils given to this school: 123
+
+Laptops wasted: 8
+Textbooks wasted: 8
+Notebooks wasted: 8
+Pencils wasted: 8
